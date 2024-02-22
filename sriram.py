@@ -26,4 +26,4 @@ elif num > 1:
     if flag:
         print(num, "is not a prime number")
     else:
-        print(num, "is a prime kinger")
+        print(num, "is a prime kingeggggr")
